@@ -1,1 +1,1 @@
-Just Another Manic Monday!
+Is It Friday Yet?
