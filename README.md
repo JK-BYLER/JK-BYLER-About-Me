@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/yx5CGBdwXdCbjEf6li/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/james-byler-23316764">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
