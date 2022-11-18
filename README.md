@@ -11,3 +11,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
+
+  ---
+ 
+ #### :helicopter: About Me :airplane:
+  
+  </div>
+
+   <img src="https://media.giphy.com/media/QTC2Q8aGF8heRQ4bbp/giphy.gif" width="60"> Self Employed Aviation FSR  
+   <img src="https://media.giphy.com/media/H1Pl8OLbkQ2ZRHLO5w/giphy.gif" width="60"> Online Cyber Seurity student at the University of Texas in San Antonio 
+ 
+</div>
